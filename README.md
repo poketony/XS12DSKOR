@@ -1,2 +1,8 @@
-# XS12DSKOR
-제노사가 I & II DS 한글패치 작업 공간입니다(Xenosaga I & II DS Korean Translation)
+**제노사가 I & II DS(Xenosaga I & II DS)**의 한글패치 자료들입니다.  
+게임의 인코딩은 SHIFT-JIS입니다.  
+현재 기초 공사 중.  
+최근 제노기어스 한글패치 작업으로 인해 기력이 노쇠(?)한 상태이므로 기초 공사만 해둘 예정입니다.  
+<br>
+<br><현재 완료된 작업>  
+한글 폰트 교체 완료  
+ROM unpack/repack 방법 확립
